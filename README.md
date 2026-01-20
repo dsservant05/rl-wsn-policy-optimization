@@ -64,4 +64,3 @@ All algorithms are implemented **from scratch in Python**, without RL libraries.
 
 ---
 
-## Repository Structure
